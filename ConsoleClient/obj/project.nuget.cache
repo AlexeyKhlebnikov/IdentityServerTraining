@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7IG9mG73Vo9nZwfATCOi+w5q5XON48ccuX+ba8Iucbw3OSzvo9AmdQefY9I/NAGi/1qEEFZjhQy1ZLXZ3kXstg==",
+  "success": true,
+  "projectFilePath": "C:\\work\\Projects\\Learning\\IdentityServer4\\ConsoleClient\\ConsoleClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\identitymodel\\5.1.0\\identitymodel.5.1.0.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\system.text.encodings.web\\5.0.1\\system.text.encodings.web.5.0.1.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

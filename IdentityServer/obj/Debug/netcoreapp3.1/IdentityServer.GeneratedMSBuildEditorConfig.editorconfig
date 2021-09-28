@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = identityserver
+build_property.ProjectDir = C:\work\Projects\Learning\IdentityServer4\identityserver\
