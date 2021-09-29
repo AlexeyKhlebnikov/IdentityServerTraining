@@ -45,3 +45,4 @@ C:\work\Projects\Learning\IdentityServer4\MvcClient\obj\Debug\net5.0\MvcClient.d
 C:\work\Projects\Learning\IdentityServer4\MvcClient\obj\Debug\net5.0\ref\MvcClient.dll
 C:\work\Projects\Learning\IdentityServer4\MvcClient\obj\Debug\net5.0\MvcClient.pdb
 C:\work\Projects\Learning\IdentityServer4\MvcClient\obj\Debug\net5.0\MvcClient.genruntimeconfig.cache
+C:\work\Projects\Learning\IdentityServer4\MvcClient\obj\Debug\net5.0\Razor\Views\Home\json.cshtml.g.cs

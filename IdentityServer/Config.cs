@@ -34,8 +34,13 @@ namespace IdentityServer
                     ClientId = "mvc",
                     AllowedGrantTypes = GrantTypes.Code,
                     ClientSecrets = {new Secret("mvcsecret".Sha256())},
+                    AllowOfflineAccess = true,
                     AllowedScopes =
-                        {IdentityServerConstants.StandardScopes.OpenId, IdentityServerConstants.StandardScopes.Profile},
+                    {
+                        IdentityServerConstants.StandardScopes.OpenId,
+                        IdentityServerConstants.StandardScopes.Profile,
+                        "api"
+                    },
                     RedirectUris = {"https://localhost:5002/signin-oidc"},
                     PostLogoutRedirectUris = {"https://localhost:5002/signout-callback-oidc"}
                 }

@@ -43,7 +43,9 @@ namespace MvcClient
                     options.ClientSecret = "mvcsecret";
                     options.ResponseType = "code";
                     options.SaveTokens = true;
-                    options.Scope.Add("profile");
+                    options.Scope.Add("api");
+                    //options.Scope.Add("profile");
+                    options.Scope.Add("offline_access");
                     options.GetClaimsFromUserInfoEndpoint = true;
                 });
         }
